@@ -1,0 +1,17 @@
+{
+    "timeZone": "Europe/Paris",
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8",
+    "dataStudio": {
+        "name": "Haloscan keyword volume history",
+        "logoUrl": "https://www.haloscan.com/wp-content/uploads/2023/07/%E3%80%89-1.png",
+        "company": "Archi301",
+        "companyUrl": "https://www.haloscan.com/",
+        "addonUrl": "https://github.com/HaloScan/looker/blob/main/LICENSE/src/keywordVolumeHistory",
+        "supportUrl": "https://github.com/HaloScan/looker/issues",
+        "description": "Get Google adwords volume history for a French keyword or expression",
+        "sources": [
+            "npm"
+        ]
+    }
+}
